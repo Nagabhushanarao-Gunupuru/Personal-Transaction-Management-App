@@ -1,0 +1,115 @@
+.dashboardContainer{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    margin-left: 0.05%;
+
+}
+
+.UserTopContainer{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.topHeading{
+  color: #343C6A;
+  font-size: 28px;
+  font-weight: 600;
+  margin-left: 30px;
+}
+.topButton{
+    width:166px;
+    height: 36px;
+    padding: 8px 12px 8px 12px;
+    border-radius: 12px;
+    border: none;
+    background-color: #2D60FF;
+    color: #ffffff;
+    margin-right: 30px;
+    
+
+}
+
+.horizontalLine{
+    color: #aeb6b7;
+    height: 0.05px;
+    width: 100%;
+}
+
+.bottomContainer{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.creditAndDebitContainer{
+    width: 100%;
+    display: flex;
+    
+}
+.creditContainer{
+    width: 45%;
+    display:flex;
+    justify-content: space-between;
+    padding: 30px;
+    align-items: center;
+
+}
+.creditCard{
+    display: flex;
+    flex-direction: column;
+    line-height: 5px;
+}
+.creditHeading{
+    color: #16DBAA;
+    font-size: 32px;
+    font-weight: 600;
+
+}
+
+.creditPara{
+  color: #718EBF;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+.bottomImage1{
+    height: 183px;
+    width: 161px;
+}
+
+.bottomImage2{
+  height: 154px;
+  width: 188px;
+}
+.debitHeading{
+    color: #FE5C73;
+    font-size: 32px;
+    font-weight: 600;
+}
+.debitPara{
+    color: #718EBF;
+  font-size: 16px;
+  font-weight: 400;
+}
+.lastTransactions{
+    margin-left: 20px;
+}
+.lastTrasactionHeading{
+    color: #333B69;
+    font-size: 22px;
+    font-weight: 600;
+}
+.debitAndCreditCard{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}

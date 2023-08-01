@@ -1,0 +1,95 @@
+.allTransactionsContainer{
+    height: 100%;
+    width: 80%;
+    background-color: #ffffff;
+    margin-left: 0.05%;
+    
+
+}
+
+.topContainer{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+.transactionContaier{
+  height: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.topButton{
+  width:166px;
+  height: 36px;
+  padding: 8px 12px 8px 12px;
+  border-radius: 12px;
+  border: none;
+  background-color: #2D60FF;
+  color: #ffffff;
+  margin-right: 30px;
+  
+
+}
+.topHeading{
+  color: #343C6A;
+  font-size: 28px;
+  font-weight: 600;
+  margin-left: 30px;
+}
+
+.bottomContainer{
+  height: 90%;
+  width: 100%;
+  overflow-y: auto;
+    
+}
+
+.listItemsContainer{
+    height: 100%;
+    width: 100%;
+}
+
+.transactionsCard{
+  margin-left: 30px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.transactions{
+  color: #718EBF;
+  text-align: center;
+  margin-right: 20px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.horizontalLine{
+  color: #aeb6b7;
+  height: 0.05px;
+  width: 100%;
+}
+
+.transactionListHeading{
+    color: #343C6A;
+    
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.listContainerEl{
+    display:flex;
+    width: 70% ;
+    justify-content: space-between;
+    align-items: flex-start;
+}

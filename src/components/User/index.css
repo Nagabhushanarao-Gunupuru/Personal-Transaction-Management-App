@@ -1,0 +1,11 @@
+.userContainer{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    background-color: #aeb6b7;
+
+}
+
+.selected{
+    color: blue;
+}
