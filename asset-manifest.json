@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Personal-Transaction-Management-App/static/css/main.72a1862e.css",
-    "main.js": "/Personal-Transaction-Management-App/static/js/main.28c1ea48.js",
+    "main.css": "/Personal-Transaction-Management-App/static/css/main.6e844c26.css",
+    "main.js": "/Personal-Transaction-Management-App/static/js/main.89058dea.js",
     "static/js/787.086f8920.chunk.js": "/Personal-Transaction-Management-App/static/js/787.086f8920.chunk.js",
     "index.html": "/Personal-Transaction-Management-App/index.html",
-    "main.72a1862e.css.map": "/Personal-Transaction-Management-App/static/css/main.72a1862e.css.map",
-    "main.28c1ea48.js.map": "/Personal-Transaction-Management-App/static/js/main.28c1ea48.js.map",
+    "main.6e844c26.css.map": "/Personal-Transaction-Management-App/static/css/main.6e844c26.css.map",
+    "main.89058dea.js.map": "/Personal-Transaction-Management-App/static/js/main.89058dea.js.map",
     "787.086f8920.chunk.js.map": "/Personal-Transaction-Management-App/static/js/787.086f8920.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72a1862e.css",
-    "static/js/main.28c1ea48.js"
+    "static/css/main.6e844c26.css",
+    "static/js/main.89058dea.js"
   ]
 }
